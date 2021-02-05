@@ -7,3 +7,6 @@ b. learn to continue
 
 
 the answer is A
+
+
+the notes https://medium.com/continual-ai/why-continuous-learning-is-the-key-towards-machine-intelligence-1851cb57c308 
