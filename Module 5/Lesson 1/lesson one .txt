@@ -1,1 +1,9 @@
 please drop your notes here
+
+what is continues learning ?
+
+a. Continual Learning (CL) is built on the idea of learning continuously and adaptively about the external world and enabling the autonomous incremental development of ever more complex skills and knowledge
+b. learn to continue
+
+
+the answer is A
